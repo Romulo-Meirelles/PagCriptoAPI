@@ -1,5 +1,5 @@
 # ![Logo](https://raw.githubusercontent.com/Romulo-Meirelles/PagCriptoAPI/main/Pictures/pagcripto_Logo.png) 
-PagCriptoAPI - (.NetFramework | .NetStandard | .NetCore)
+PagCriptoAPI - (.NetFramework | .NetStandard | .NetCore | .Net)
 
 [![NuGet version (PagCriptoAPI)](https://img.shields.io/nuget/v/PagCriptoAPI.svg?style=flat-square)](https://www.nuget.org/packages/PagCriptoAPI/)
 
