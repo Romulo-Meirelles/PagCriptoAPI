@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>PagCriptoAPI</RootNamespace>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <OutputType>Library</OutputType>
+    <StartupObject></StartupObject>
+    <ApplicationIcon>PagCriptoIcon.ico</ApplicationIcon>
+    <AssemblyName>PagCriptoAPI</AssemblyName>
+    <Authors>Rômulo Meirelles</Authors>
+    <Company>https://github.com/Romulo-Meirelles</Company>
+    <Description>API para exchange PagCripto</Description>
+    <Copyright>Copyright ©  2022 - Rômulo Meirelles</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.Core">
+      <HintPath>..\..\..\..\..\..\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\3.1.0\ref\netcoreapp3.1\Microsoft.VisualBasic.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

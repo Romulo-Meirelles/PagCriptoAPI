@@ -1,0 +1,5 @@
+C:\Users\Romulo Meirelles\source\repos\PagCriptoAPI\PagCriptoAPI.Standart\obj\Debug\netstandard1.6\PagCriptoAPI.Standard.vbproj.AssemblyReference.cache
+C:\Users\Romulo Meirelles\source\repos\PagCriptoAPI\PagCriptoAPI.Standart\obj\Debug\netstandard1.6\PagCriptoAPI.Standard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Romulo Meirelles\source\repos\PagCriptoAPI\PagCriptoAPI.Standart\obj\Debug\netstandard1.6\PagCriptoAPI.Standard.AssemblyInfoInputs.cache
+C:\Users\Romulo Meirelles\source\repos\PagCriptoAPI\PagCriptoAPI.Standart\obj\Debug\netstandard1.6\PagCriptoAPI.Standard.AssemblyInfo.vb
+C:\Users\Romulo Meirelles\source\repos\PagCriptoAPI\PagCriptoAPI.Standart\obj\Debug\netstandard1.6\PagCriptoAPI.Standard.vbproj.CoreCompileInputs.cache
