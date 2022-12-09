@@ -1,0 +1,5 @@
+C:\Users\Romulo Meirelles\source\repos\PagCriptoAPI\PagCriptoAPI\obj\Debug\netcoreapp2.2\PagCriptoAPI.Core.vbproj.AssemblyReference.cache
+C:\Users\Romulo Meirelles\source\repos\PagCriptoAPI\PagCriptoAPI\obj\Debug\netcoreapp2.2\PagCriptoAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Romulo Meirelles\source\repos\PagCriptoAPI\PagCriptoAPI\obj\Debug\netcoreapp2.2\PagCriptoAPI.Core.AssemblyInfoInputs.cache
+C:\Users\Romulo Meirelles\source\repos\PagCriptoAPI\PagCriptoAPI\obj\Debug\netcoreapp2.2\PagCriptoAPI.Core.AssemblyInfo.vb
+C:\Users\Romulo Meirelles\source\repos\PagCriptoAPI\PagCriptoAPI\obj\Debug\netcoreapp2.2\PagCriptoAPI.Core.vbproj.CoreCompileInputs.cache

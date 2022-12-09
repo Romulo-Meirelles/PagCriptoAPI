@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nyBWIYC+0RJKuRpMWBGmSUqApjxXgPVuzX6Jt8zEoneKIGGAq6dyzq4WjcjNMb0t0KD9fvNXOJCRIDDSaTjCTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Romulo Meirelles\\source\\repos\\PagCriptoAPI\\PagCriptoAPI.Core\\PagCriptoAPI.Core.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Romulo Meirelles\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

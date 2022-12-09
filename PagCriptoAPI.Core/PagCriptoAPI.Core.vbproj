@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>PagCripto.API</RootNamespace>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <OutputType>Library</OutputType>
+    <StartupObject></StartupObject>
+    <ApplicationIcon>PagCriptoIcon.ico</ApplicationIcon>
+    <AssemblyName>PagCriptoAPI</AssemblyName>
+    <Authors>Rômulo Meirelles</Authors>
+    <Company>https://github.com/Romulo-Meirelles</Company>
+    <Description>API para exchange CriptoPag</Description>
+    <Copyright>Copyright ©  2022 - Rômulo Meirelles</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+  </ItemGroup>
+
+</Project>

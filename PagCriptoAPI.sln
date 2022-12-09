@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "PagCriptoAPI.Core", "PagCriptoAPI.Core\PagCriptoAPI.Core.vbproj", "{D9929D95-613E-4759-A47A-F447B0CE3040}"
+EndProject
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Test_API", "Test_API\Test_API.vbproj", "{E3D55C50-A2B5-4C5F-8326-9F3B924F1B5A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PagCriptoAPI.Framework", "PagCriptoAPI.Framework\PagCriptoAPI.Framework.vbproj", "{AB555357-4397-4F53-9B68-2CA99B1DA0D7}"
+EndProject
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "PagCriptoAPI.Standard", "PagCriptoAPI.Standart\PagCriptoAPI.Standard.vbproj", "{DBCCACD7-4C3B-420F-A092-6D82DF6957E4}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PagCriptoAPI.Net", "PagCriptoAPI.Net\PagCriptoAPI.Net.vbproj", "{E32411C5-BDC0-4A73-A767-BA4F418A1391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9929D95-613E-4759-A47A-F447B0CE3040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9929D95-613E-4759-A47A-F447B0CE3040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9929D95-613E-4759-A47A-F447B0CE3040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9929D95-613E-4759-A47A-F447B0CE3040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3D55C50-A2B5-4C5F-8326-9F3B924F1B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3D55C50-A2B5-4C5F-8326-9F3B924F1B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3D55C50-A2B5-4C5F-8326-9F3B924F1B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3D55C50-A2B5-4C5F-8326-9F3B924F1B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB555357-4397-4F53-9B68-2CA99B1DA0D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB555357-4397-4F53-9B68-2CA99B1DA0D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB555357-4397-4F53-9B68-2CA99B1DA0D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB555357-4397-4F53-9B68-2CA99B1DA0D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBCCACD7-4C3B-420F-A092-6D82DF6957E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCCACD7-4C3B-420F-A092-6D82DF6957E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCCACD7-4C3B-420F-A092-6D82DF6957E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCCACD7-4C3B-420F-A092-6D82DF6957E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E32411C5-BDC0-4A73-A767-BA4F418A1391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E32411C5-BDC0-4A73-A767-BA4F418A1391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E32411C5-BDC0-4A73-A767-BA4F418A1391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E32411C5-BDC0-4A73-A767-BA4F418A1391}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35078E2F-E933-40CA-BB26-4119BA1F7304}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\Romulo Meirelles\source\repos\PagCriptoAPI\PagCriptoAPI\bin\Debug\netcoreapp3.0\PagCriptoAPI.deps.json
+C:\Users\Romulo Meirelles\source\repos\PagCriptoAPI\PagCriptoAPI\bin\Debug\netcoreapp3.0\PagCriptoAPI.dll
+C:\Users\Romulo Meirelles\source\repos\PagCriptoAPI\PagCriptoAPI\bin\Debug\netcoreapp3.0\PagCriptoAPI.pdb
+C:\Users\Romulo Meirelles\source\repos\PagCriptoAPI\PagCriptoAPI\obj\Debug\netcoreapp3.0\PagCriptoAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Romulo Meirelles\source\repos\PagCriptoAPI\PagCriptoAPI\obj\Debug\netcoreapp3.0\PagCriptoAPI.Core.AssemblyInfoInputs.cache
+C:\Users\Romulo Meirelles\source\repos\PagCriptoAPI\PagCriptoAPI\obj\Debug\netcoreapp3.0\PagCriptoAPI.Core.AssemblyInfo.vb
+C:\Users\Romulo Meirelles\source\repos\PagCriptoAPI\PagCriptoAPI\obj\Debug\netcoreapp3.0\PagCriptoAPI.Core.vbproj.CoreCompileInputs.cache
+C:\Users\Romulo Meirelles\source\repos\PagCriptoAPI\PagCriptoAPI\obj\Debug\netcoreapp3.0\PagCriptoAPI.dll
+C:\Users\Romulo Meirelles\source\repos\PagCriptoAPI\PagCriptoAPI\obj\Debug\netcoreapp3.0\PagCriptoAPI.pdb
